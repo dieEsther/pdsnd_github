@@ -15,8 +15,8 @@ There are four questions that change the ouput:
 The answers to the questions above will determine the city and timeframe for which the user will see some calculated statistics and raw data.
 
 ### Files used
-Include the files used
+The files used were chicago.csv, new_york_city.csv and washington.csv as available via the Udacity nanodegree space.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The project scope was pre-defined by Udacity ("Programming for Data Science with Python").
 
