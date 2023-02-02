@@ -1,10 +1,11 @@
 import time
 import pandas as pd
 import numpy as np
+pd.set_option(“display.max_columns”,200)
 
-CITY_DATA = { 'Chicago': '/Users/esthergroenert/Documents/Udacity/2022/Python Project/all-project-files/chicago.csv',
-              'New York City': '/Users/esthergroenert/Documents/Udacity/2022/Python Project/all-project-files/new_york_city.csv',
-              'Washington': '/Users/esthergroenert/Documents/Udacity/2022/Python Project/all-project-files/washington.csv' }
+CITY_DATA = {'Chicago': 'chicago.csv',
+             'New York': 'new_york_city.csv',
+             'Washington': 'washington.csv'}
 
 
 def get_filters():  
